@@ -1,7 +1,13 @@
-let rafa = { nome: "Rafa", vitorias: 2, empates: 1, derrotas: 1, pontos: 0 };
-let Pedro = { nome: "Rafa", vitorias: 2, empates: 1, derrotas: 1, pontos: 0 };
-let rael = { nome: "Rafa", vitorias: 2, empates: 1, derrotas: 1, pontos: 0 };
-let jogadores = [rafa, Pedro, rael];
+let eros = { nome: "Eros", vitorias: 2, empates: 1, derrotas: 1, pontos: 0 };
+let pedro = { nome: "Pedro", vitorias: 2, empates: 1, derrotas: 1, pontos: 0 };
+let valdenicio = {
+  nome: "Valdenicio",
+  vitorias: 2,
+  empates: 1,
+  derrotas: 1,
+  pontos: 0,
+};
+let jogadores = [eros, pedro, valdenicio];
 
 function adicionarLinha() {
   let input = document.getElementById("nomeInput");
