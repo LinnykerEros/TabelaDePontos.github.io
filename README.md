@@ -1,1 +1,1 @@
-# TabelaDePontos.github.io
+# https://linnykereros.github.io/SuperTrump.github.io/
